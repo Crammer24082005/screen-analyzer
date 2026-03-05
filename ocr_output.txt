@@ -1,0 +1,406 @@
+[00:57:49] Fila
+[00:58:01] ile
+[00:58:13] File
+[01:11:01] 1
+[01:11:08] 1
+[01:11:15] 1
+[01:11:15] 1
+[01:11:21] 1
+[01:11:28] '
+[01:11:28] OCR OUTPUt
+[01:11:28] (londer)
+[01:12:46] Capture started
+[01:12:46] Avallable conitors
+[01:12:46] Honitor
+[01:12:46] 1920-1080
+[01:12:46] Capture started
+[01:12:46] Capture
+[01:12:46] started
+[01:12:46] Found
+[01:12:46] supero)
+[01:12:46] (loader)
+[01:12:46] Exit key pressed
+[01:12:46] Stopping capture engine
+[01:12:46] Capture
+[01:12:46] topped
+[01:12:46] Avallable conitors
+[01:12:46] Honitor
+[01:12:46] Capture started
+[01:12:46] Capture started
+[01:12:56] Honitor
+[01:12:56] 1920-1080
+[01:13:00] Honitor
+[01:13:00] 1920-1080
+[01:13:00] Capture started
+[01:13:00] Capture
+[01:13:00] started
+[01:13:00] Press ESC or 0 t0 erit
+[01:13:00] found
+[01:13:00] then device pinned Denory
+[01:13:00] on
+[01:13:00] super()
+[01:13:00] Init
+[01:13:00] (loader )
+[01:13:00] Stopping capture engine
+[01:13:00] Capture
+[01:13:00] stopped
+[01:13:00] Honitor
+[01:13:00] pytho
+[01:13:03] Honitor
+[01:13:03] 1920-1080
+[01:13:03] Capture started
+[01:13:03] Capture
+[01:13:03] started
+[01:13:03] Press ESC or 0 t0 erit
+[01:13:03] found
+[01:13:03] then device pinned Denory
+[01:13:03] on
+[01:13:03] supero)
+[01:13:03] init
+[01:13:03] (loader )
+[01:13:07] Honitor
+[01:13:07] Capture started
+[01:13:07] Capture
+[01:13:07] started
+[01:13:07] Press ESC or 0 to
+[01:13:07] found
+[01:13:07] supero)
+[01:13:07] init
+[01:13:07] Stopping capture
+[01:13:07] Capture
+[01:13:07] stopped
+[01:13:07] Available conitor
+[01:13:07] Honitor
+[01:13:07] Capture started
+[01:13:07] Capture started
+[01:13:07] Press
+[01:13:07] tor
+[01:13:07] found
+[01:13:07] super()
+[01:13:07] Init
+[01:13:09] OUTPUT
+[01:13:58] Stopping capture engine
+[01:13:58] Avallable conitors
+[01:13:58] Honitor
+[01:13:58] 1920-1080
+[01:13:58] Capture started
+[01:13:58] Capture
+[01:13:58] started
+[01:13:58] Found
+[01:13:58] supero)
+[01:13:58] (loader)
+[01:13:58] Exit key pressed
+[01:13:58] Stopping capture engine
+[01:13:58] Capture
+[01:13:58] stopped
+[01:13:58] Avallable conitors
+[01:13:58] Honitor
+[01:13:58] Capture started
+[01:13:58] Capture started
+[01:14:03] Honitor
+[01:14:03] Captur
+[01:14:03] started
+[01:14:03] ESC or 0 to
+[01:14:03] accelera
+[01:14:03] tor
+[01:14:03] found
+[01:14:03] super()
+[01:14:03] init
+[01:14:03] (loader)
+[01:14:03] pressed
+[01:14:03] Stopping capture engine
+[01:14:03] Capture
+[01:14:03] topped
+[01:14:03] Available conitors
+[01:14:03] Honitor
+[01:14:03] 192071080
+[01:14:03] Capture started
+[01:14:03] Capture started
+[01:14:03] Tound
+[01:14:03] super)
+[01:14:03] Init
+[01:14:03] (loader)
+[01:14:07] tor
+[01:14:07] 1920-1080
+[01:14:07] started
+[01:14:07] started
+[01:14:07] ESC or 0 t0 erit
+[01:14:07] Userharning:
+[01:14:07] but
+[01:14:07] accelera
+[01:14:07] Found
+[01:14:07] then device pinned
+[01:14:07] Init
+[01:14:07] (loader )
+[01:14:07] pressed
+[01:14:07] ng capture
+[01:14:07] stopped
+[01:14:07] tor
+[01:14:07] started
+[01:14:07] Started
+[01:14:07] Found
+[01:14:07] then device pinned
+[01:14:07] nit
+[01:14:07] (loader )
+[01:14:12] Hontor
+[01:14:15] Honitor
+[01:14:15] 1920-1080
+[01:14:15] Capture started
+[01:14:15] Capture
+[01:14:15] started
+[01:14:15] Press
+[01:14:15] ESC
+[01:14:15] pin
+[01:14:15] found
+[01:14:15] super()
+[01:14:15] nit
+[01:14:15] (loader)
+[01:14:15] Stopping capture engine
+[01:14:15] Capturc
+[01:14:15] stopped
+[01:14:15] Honitor
+[01:14:15] 1920-1080
+[01:14:15] Capture
+[01:14:15] Capture
+[01:14:15] started
+[01:14:15] Press
+[01:14:15] found
+[01:14:15] super()
+[01:14:15] Init
+[01:14:15] (Loader)
+[01:14:19] 1920-1080
+[01:14:19] started
+[01:14:19] started
+[01:14:19] found
+[01:14:19] Init
+[01:14:19] (loader)
+[01:14:19] pressed
+[01:14:19] capture engine
+[01:14:19] stopped
+[01:14:19] 1920-1080
+[01:14:19] TPUT
+[01:14:19] started
+[01:14:19] started
+[01:14:19] SC or 0
+[01:14:19] found
+[01:14:19] init
+[01:14:19] (loader)
+[01:18:12] 8
+[01:18:12] super()
+[01:18:12] Init
+[01:18:12] (loader)
+[01:18:12] @
+[01:18:12] pressed
+[01:18:12] Stopping capture engine
+[01:18:12] toppcd
+[01:18:12] Honitor
+[01:18:12] Capture started
+[01:18:12] 8
+[01:18:12] Capture started
+[01:18:12] Press
+[01:18:12] ESC or
+[01:18:12] tor
+[01:18:12] Found
+[01:18:12] then device
+[01:18:12] supero)
+[01:18:12] Init
+[01:18:12] (loader)
+[01:18:12] pressed
+[01:18:12] Stopping capture engine
+[01:18:12] Capture
+[01:18:12] topped
+[01:18:12] Avallable conitors
+[01:18:12] Honitor
+[01:18:12] 1920.1080
+[01:18:15] 8
+[01:18:15] Capturo
+[01:18:15] stopped
+[01:18:15] (venv) PS
+[01:18:15] Available conitors
+[01:18:15] Honitor
+[01:18:15] Capture started
+[01:18:15] Capture started
+[01:18:15] Press ESC
+[01:18:15] 8
+[01:18:15] tor
+[01:18:15] found
+[01:18:15] super()
+[01:18:15] Init
+[01:18:15] (loader)
+[01:18:15] Exit key pressed
+[01:18:15] Capture
+[01:18:15] topped
+[01:18:15] Available conitors
+[01:18:15] Honitor
+[01:18:15] 1920.1080
+[01:18:15] Capture started
+[01:18:15] Capture started
+[01:18:15] t
+[01:18:19] 8
+[01:18:19] @
+[01:18:19] Capture
+[01:18:19] stopped
+[01:18:19] Available conitors
+[01:18:19] Honitor
+[01:18:19] Capture started
+[01:18:19] Capture started
+[01:18:19] ESC
+[01:18:19] 8
+[01:18:19] 775: UserMarning
+[01:18:19] tor
+[01:18:19] found
+[01:18:19] super()
+[01:18:19] init
+[01:18:19] (loader )
+[01:18:19] Exit key pressed
+[01:18:19] Stopping capture engine
+[01:18:19] Capture
+[01:18:19] stopped
+[01:18:19] Available conitors
+[01:18:19] Honitor
+[01:18:19] 1920-1080
+[01:18:19] Capture started
+[01:18:19] Capture
+[01:18:19] started
+[01:18:19] Press ESC
+[01:18:19] to it
+[01:18:22] Stopping capture
+[01:18:22] 8
+[01:18:22] Capture stopped
+[01:18:22] Available
+[01:18:22] @
+[01:18:22] Honitor
+[01:18:22] Capture started
+[01:18:22] Capture
+[01:18:22] started
+[01:18:22] 8
+[01:18:22] argunent
+[01:18:22] but
+[01:18:22] accelera
+[01:18:22] tor1 found
+[01:18:22] supero
+[01:18:22] (loader)
+[01:18:22] Exit key pressed
+[01:18:22] Stopping capture
+[01:18:22] engine
+[01:18:22] Capture
+[01:18:22] stopped
+[01:18:22] Honitor
+[01:18:22] 1920.1080
+[01:18:22] Capture started
+[01:18:22] Capture
+[01:18:22] started
+[01:18:26] Stopping capture
+[01:18:26] 8
+[01:18:26] Capture stopped
+[01:18:26] (venv) PS
+[01:18:26] Available nonitors
+[01:18:26] Honitor
+[01:18:26] @
+[01:18:26] Capture
+[01:18:26] started
+[01:18:26] Capture
+[01:18:26] started
+[01:18:26] 8
+[01:18:26] found
+[01:18:26] super()
+[01:18:26] init
+[01:18:26] (loader)
+[01:18:26] Exit key pressed
+[01:18:26] Stopping capture engine
+[01:18:26] Capture
+[01:18:26] stopped
+[01:18:26] Available conitors
+[01:18:26] Honitor
+[01:18:26] Capture
+[01:18:26] started
+[01:18:26] Capture
+[01:18:26] started
+[01:18:29] Stopping capture engine
+[01:18:29] 8
+[01:18:29] Capture
+[01:18:29] stopped
+[01:18:29] (venv) PS
+[01:18:29] Avallable
+[01:18:29] Honitor
+[01:18:29] 1920.1080
+[01:18:29] @
+[01:18:29] Capture started
+[01:18:29] Capture started
+[01:18:29] Press ESC
+[01:18:29] 8
+[01:18:29] Idata dataloader.py: 775: UserMarning:
+[01:18:29] tor1 found
+[01:18:29] super()
+[01:18:29] Init
+[01:18:29] (loader)
+[01:18:29] Stopping capture engine
+[01:18:29] Capture
+[01:18:29] stopped
+[01:18:29] (venv) PS
+[01:18:29] Honitor
+[01:18:29] 1920.1080
+[01:18:29] Capture started
+[01:18:29] Capture started
+[01:18:29] Press ESC
+[01:18:32] Stopping capture engine
+[01:18:32] 8
+[01:18:32] Capture
+[01:18:32] stoppcd
+[01:18:32] @
+[01:18:32] Available conitors
+[01:18:32] Honitor
+[01:18:32] @
+[01:18:32] Capture
+[01:18:32] started
+[01:18:32] Capture
+[01:18:32] started
+[01:18:32] 8
+[01:18:32] tor
+[01:18:32] then device pinned
+[01:18:32] on
+[01:18:32] supero)
+[01:18:32] Init
+[01:18:32] (loader)
+[01:18:32] Exit
+[01:18:32] pressed
+[01:18:32] Stopping capture
+[01:18:32] engine
+[01:18:32] Capture
+[01:18:32] Available nonitors
+[01:18:32] Honitor
+[01:18:32] Capture
+[01:18:32] started
+[01:18:32] Capture
+[01:18:32] started
+[01:18:32] Press ESC Or 0
+[01:18:32] ey
+[01:18:36] Honitor
+[01:18:36] 1920-1080
+[01:18:36] Capture started
+[01:18:36] 8
+[01:18:36] Capture tarted
+[01:18:36] @
+[01:18:36] UserMarning:
+[01:18:36] but no accelera
+[01:18:36] tor
+[01:18:36] Found
+[01:18:36] supero)
+[01:18:36] Init
+[01:18:36] (loader)
+[01:18:36] Exit Key pressed
+[01:18:36] Stopping capture
+[01:18:36] engine
+[01:18:36] 8
+[01:18:36] Capture
+[01:18:36] topped
+[01:18:36] Availabl
+[01:18:36] conitors:
+[01:18:36] Honitor
+[01:18:36] 1920-1080
+[01:18:36] Capture started
+[01:18:36] Useriarning:
+[01:18:36] then device pinned
+[01:18:36] upero)
+[01:18:36] Init _(loader)
+[01:18:36] n

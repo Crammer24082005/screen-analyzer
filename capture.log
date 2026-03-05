@@ -1,0 +1,1184 @@
+2026-03-06 00:13:47,954 | INFO | Frame captured: 0
+2026-03-06 00:13:48,079 | INFO | Frame captured: 1
+2026-03-06 00:13:48,119 | INFO | Frame captured: 2
+2026-03-06 00:13:55,956 | INFO | Frame captured: 3
+2026-03-06 00:13:55,996 | INFO | Frame captured: 4
+2026-03-06 00:13:56,039 | INFO | Frame captured: 5
+2026-03-06 00:13:56,113 | INFO | Frame captured: 6
+2026-03-06 00:14:10,947 | INFO | Frame captured: 7
+2026-03-06 00:14:10,994 | INFO | Frame captured: 8
+2026-03-06 00:14:12,267 | INFO | Frame captured: 9
+2026-03-06 00:14:12,368 | INFO | Frame captured: 10
+2026-03-06 00:14:15,060 | INFO | Frame captured: 11
+2026-03-06 00:14:37,389 | INFO | Frame captured: 12
+2026-03-06 00:14:37,773 | INFO | Frame captured: 13
+2026-03-06 00:14:37,824 | INFO | Frame captured: 14
+2026-03-06 00:14:37,874 | INFO | Frame captured: 15
+2026-03-06 00:14:37,925 | INFO | Frame captured: 16
+2026-03-06 00:14:37,986 | INFO | Frame captured: 17
+2026-03-06 00:14:38,033 | INFO | Frame captured: 18
+2026-03-06 00:14:38,092 | INFO | Frame captured: 19
+2026-03-06 00:14:38,151 | INFO | Frame captured: 20
+2026-03-06 00:14:45,403 | WARNING | Frame dropped
+2026-03-06 00:14:47,123 | WARNING | Frame dropped
+2026-03-06 00:14:48,116 | WARNING | Frame dropped
+2026-03-06 00:14:51,265 | INFO | Frame captured: 21
+2026-03-06 00:14:53,706 | INFO | Frame captured: 22
+2026-03-06 00:14:54,742 | INFO | Frame captured: 23
+2026-03-06 00:14:56,034 | INFO | Frame captured: 24
+2026-03-06 00:14:56,084 | INFO | Frame captured: 25
+2026-03-06 00:14:56,135 | INFO | Frame captured: 26
+2026-03-06 00:14:56,178 | INFO | Frame captured: 27
+2026-03-06 00:14:57,544 | INFO | Frame captured: 28
+2026-03-06 00:14:57,585 | INFO | Frame captured: 29
+2026-03-06 00:14:57,629 | INFO | Frame captured: 30
+2026-03-06 00:14:57,673 | INFO | Frame captured: 31
+2026-03-06 00:14:57,720 | INFO | Frame captured: 32
+2026-03-06 00:14:57,758 | INFO | Frame captured: 33
+2026-03-06 00:14:57,808 | INFO | Frame captured: 34
+2026-03-06 00:14:58,327 | INFO | Frame captured: 35
+2026-03-06 00:14:59,763 | INFO | Frame captured: 36
+2026-03-06 00:14:59,823 | INFO | Frame captured: 37
+2026-03-06 00:15:01,972 | INFO | Frame captured: 38
+2026-03-06 00:15:02,022 | INFO | Frame captured: 39
+2026-03-06 00:15:02,075 | INFO | Frame captured: 40
+2026-03-06 00:15:02,128 | INFO | Frame captured: 41
+2026-03-06 00:15:03,186 | INFO | Frame captured: 42
+2026-03-06 00:15:03,341 | WARNING | Frame dropped
+2026-03-06 00:15:03,528 | WARNING | Frame dropped
+2026-03-06 00:15:07,089 | WARNING | Frame dropped
+2026-03-06 00:15:07,260 | WARNING | Frame dropped
+2026-03-06 00:15:07,812 | WARNING | Frame dropped
+2026-03-06 00:15:07,985 | WARNING | Frame dropped
+2026-03-06 00:15:11,411 | WARNING | Frame dropped
+2026-03-06 00:15:11,569 | WARNING | Frame dropped
+2026-03-06 00:15:11,754 | WARNING | Frame dropped
+2026-03-06 00:15:11,927 | WARNING | Frame dropped
+2026-03-06 00:15:12,290 | WARNING | Frame dropped
+2026-03-06 00:15:12,460 | WARNING | Frame dropped
+2026-03-06 00:15:14,052 | WARNING | Frame dropped
+2026-03-06 00:15:14,226 | WARNING | Frame dropped
+2026-03-06 00:15:14,605 | WARNING | Frame dropped
+2026-03-06 00:15:14,779 | WARNING | Frame dropped
+2026-03-06 00:15:23,498 | WARNING | Frame dropped
+2026-03-06 00:15:23,658 | WARNING | Frame dropped
+2026-03-06 00:15:23,865 | WARNING | Frame dropped
+2026-03-06 00:15:24,023 | WARNING | Frame dropped
+2026-03-06 00:15:39,677 | WARNING | Frame dropped
+2026-03-06 00:15:40,922 | WARNING | Frame dropped
+2026-03-06 00:15:41,081 | WARNING | Frame dropped
+2026-03-06 00:15:45,465 | WARNING | Frame dropped
+2026-03-06 00:15:45,642 | WARNING | Frame dropped
+2026-03-06 00:15:45,817 | WARNING | Frame dropped
+2026-03-06 00:15:45,989 | WARNING | Frame dropped
+2026-03-06 00:15:46,147 | WARNING | Frame dropped
+2026-03-06 00:15:46,289 | WARNING | Frame dropped
+2026-03-06 00:15:46,529 | WARNING | Frame dropped
+2026-03-06 00:15:46,940 | WARNING | Frame dropped
+2026-03-06 00:15:54,106 | WARNING | Frame dropped
+2026-03-06 00:15:54,282 | WARNING | Frame dropped
+2026-03-06 00:15:54,502 | WARNING | Frame dropped
+2026-03-06 00:15:54,660 | WARNING | Frame dropped
+2026-03-06 00:15:54,818 | WARNING | Frame dropped
+2026-03-06 00:15:54,974 | WARNING | Frame dropped
+2026-03-06 00:15:55,131 | WARNING | Frame dropped
+2026-03-06 00:15:55,571 | WARNING | Frame dropped
+2026-03-06 00:15:55,715 | WARNING | Frame dropped
+2026-03-06 00:16:27,253 | WARNING | Frame dropped
+2026-03-06 00:16:27,619 | WARNING | Frame dropped
+2026-03-06 00:16:27,776 | WARNING | Frame dropped
+2026-03-06 00:16:33,945 | WARNING | Frame dropped
+2026-03-06 00:16:34,103 | WARNING | Frame dropped
+2026-03-06 00:16:36,265 | WARNING | Frame dropped
+2026-03-06 00:16:36,313 | INFO | Frame captured: 43
+2026-03-06 00:16:37,601 | INFO | Frame captured: 44
+2026-03-06 00:16:37,797 | INFO | Frame captured: 45
+2026-03-06 00:16:38,373 | INFO | Frame captured: 46
+2026-03-06 00:16:42,046 | INFO | Frame captured: 47
+2026-03-06 00:16:42,738 | INFO | Frame captured: 48
+2026-03-06 00:16:46,998 | INFO | Frame captured: 49
+2026-03-06 00:16:47,750 | INFO | Frame captured: 50
+2026-03-06 00:16:47,813 | INFO | Frame captured: 51
+2026-03-06 00:16:47,873 | INFO | Frame captured: 52
+2026-03-06 00:16:47,948 | INFO | Frame captured: 53
+2026-03-06 00:16:48,583 | INFO | Frame captured: 54
+2026-03-06 00:16:50,125 | INFO | Frame captured: 55
+2026-03-06 00:16:50,161 | INFO | Frame captured: 56
+2026-03-06 00:16:50,199 | INFO | Frame captured: 57
+2026-03-06 00:16:50,239 | INFO | Frame captured: 58
+2026-03-06 00:16:52,700 | INFO | Frame captured: 59
+2026-03-06 00:16:52,827 | INFO | Frame captured: 60
+2026-03-06 00:16:52,862 | INFO | Frame captured: 61
+2026-03-06 00:16:52,897 | INFO | Frame captured: 62
+2026-03-06 00:16:52,931 | INFO | Frame captured: 63
+2026-03-06 00:16:53,000 | INFO | Frame captured: 64
+2026-03-06 00:16:53,038 | INFO | Frame captured: 65
+2026-03-06 00:16:54,214 | INFO | Frame captured: 66
+2026-03-06 00:16:55,542 | INFO | Frame captured: 67
+2026-03-06 00:16:58,896 | INFO | Frame captured: 68
+2026-03-06 00:17:06,776 | INFO | Frame captured: 69
+2026-03-06 00:17:44,034 | INFO | Frame captured: 0
+2026-03-06 00:17:44,074 | INFO | Frame captured: 1
+2026-03-06 00:17:44,118 | INFO | Frame captured: 2
+2026-03-06 00:17:44,155 | INFO | Frame captured: 3
+2026-03-06 00:17:44,189 | INFO | Frame captured: 4
+2026-03-06 00:17:44,232 | INFO | Frame captured: 5
+2026-03-06 00:17:44,275 | INFO | Frame captured: 6
+2026-03-06 00:17:44,324 | INFO | Frame captured: 7
+2026-03-06 00:17:44,373 | INFO | Frame captured: 8
+2026-03-06 00:17:44,414 | INFO | Frame captured: 9
+2026-03-06 00:17:44,459 | INFO | Frame captured: 10
+2026-03-06 00:17:44,500 | INFO | Frame captured: 11
+2026-03-06 00:17:44,535 | INFO | Frame captured: 12
+2026-03-06 00:17:44,570 | INFO | Frame captured: 13
+2026-03-06 00:17:44,608 | INFO | Frame captured: 14
+2026-03-06 00:17:44,661 | INFO | Frame captured: 15
+2026-03-06 00:17:44,706 | INFO | Frame captured: 16
+2026-03-06 00:17:44,756 | INFO | Frame captured: 17
+2026-03-06 00:17:44,797 | INFO | Frame captured: 18
+2026-03-06 00:17:44,844 | INFO | Frame captured: 19
+2026-03-06 00:17:44,892 | INFO | Frame captured: 20
+2026-03-06 00:17:44,935 | INFO | Frame captured: 21
+2026-03-06 00:17:44,984 | INFO | Frame captured: 22
+2026-03-06 00:17:45,022 | INFO | Frame captured: 23
+2026-03-06 00:17:45,061 | INFO | Frame captured: 24
+2026-03-06 00:17:45,098 | INFO | Frame captured: 25
+2026-03-06 00:17:45,131 | INFO | Frame captured: 26
+2026-03-06 00:17:51,951 | INFO | Frame captured: 27
+2026-03-06 00:17:51,986 | INFO | Frame captured: 28
+2026-03-06 00:17:52,026 | INFO | Frame captured: 29
+2026-03-06 00:17:52,064 | INFO | Frame captured: 30
+2026-03-06 00:17:52,094 | INFO | Frame captured: 31
+2026-03-06 00:17:52,130 | INFO | Frame captured: 32
+2026-03-06 00:17:52,163 | INFO | Frame captured: 33
+2026-03-06 00:17:52,198 | INFO | Frame captured: 34
+2026-03-06 00:17:52,232 | INFO | Frame captured: 35
+2026-03-06 00:17:52,267 | INFO | Frame captured: 36
+2026-03-06 00:17:52,304 | INFO | Frame captured: 37
+2026-03-06 00:17:52,341 | INFO | Frame captured: 38
+2026-03-06 00:17:52,382 | INFO | Frame captured: 39
+2026-03-06 00:17:52,441 | INFO | Frame captured: 40
+2026-03-06 00:17:52,512 | INFO | Frame captured: 41
+2026-03-06 00:17:52,559 | INFO | Frame captured: 42
+2026-03-06 00:17:52,620 | INFO | Frame captured: 43
+2026-03-06 00:17:52,686 | INFO | Frame captured: 44
+2026-03-06 00:17:52,727 | INFO | Frame captured: 45
+2026-03-06 00:17:52,766 | INFO | Frame captured: 46
+2026-03-06 00:17:52,809 | INFO | Frame captured: 47
+2026-03-06 00:17:52,849 | INFO | Frame captured: 48
+2026-03-06 00:17:52,894 | INFO | Frame captured: 49
+2026-03-06 00:17:52,933 | INFO | Frame captured: 50
+2026-03-06 00:17:52,980 | INFO | Frame captured: 51
+2026-03-06 00:17:53,018 | INFO | Frame captured: 52
+2026-03-06 00:17:53,078 | INFO | Frame captured: 53
+2026-03-06 00:17:53,111 | INFO | Frame captured: 54
+2026-03-06 00:17:53,452 | INFO | Frame captured: 55
+2026-03-06 00:17:53,484 | INFO | Frame captured: 56
+2026-03-06 00:17:53,519 | INFO | Frame captured: 57
+2026-03-06 00:17:53,561 | INFO | Frame captured: 58
+2026-03-06 00:17:54,054 | INFO | Frame captured: 59
+2026-03-06 00:17:54,360 | INFO | Frame captured: 60
+2026-03-06 00:17:55,353 | INFO | Frame captured: 61
+2026-03-06 00:17:55,387 | INFO | Frame captured: 62
+2026-03-06 00:17:55,523 | WARNING | Frame dropped
+2026-03-06 00:17:55,711 | WARNING | Frame dropped
+2026-03-06 00:17:55,853 | WARNING | Frame dropped
+2026-03-06 00:17:55,933 | INFO | Frame captured: 63
+2026-03-06 00:18:00,415 | INFO | Frame captured: 64
+2026-03-06 00:18:00,456 | INFO | Frame captured: 65
+2026-03-06 00:18:00,497 | INFO | Frame captured: 66
+2026-03-06 00:18:00,539 | INFO | Frame captured: 67
+2026-03-06 00:18:00,575 | INFO | Frame captured: 68
+2026-03-06 00:18:00,612 | INFO | Frame captured: 69
+2026-03-06 00:18:00,661 | INFO | Frame captured: 70
+2026-03-06 00:18:00,711 | INFO | Frame captured: 71
+2026-03-06 00:18:00,760 | INFO | Frame captured: 72
+2026-03-06 00:18:00,802 | INFO | Frame captured: 73
+2026-03-06 00:18:00,848 | INFO | Frame captured: 74
+2026-03-06 00:18:00,879 | INFO | Frame captured: 75
+2026-03-06 00:18:00,916 | INFO | Frame captured: 76
+2026-03-06 00:18:00,948 | INFO | Frame captured: 77
+2026-03-06 00:18:00,983 | INFO | Frame captured: 78
+2026-03-06 00:18:01,017 | INFO | Frame captured: 79
+2026-03-06 00:18:01,051 | INFO | Frame captured: 80
+2026-03-06 00:18:01,089 | INFO | Frame captured: 81
+2026-03-06 00:18:01,122 | INFO | Frame captured: 82
+2026-03-06 00:18:01,160 | INFO | Frame captured: 83
+2026-03-06 00:18:01,195 | INFO | Frame captured: 84
+2026-03-06 00:18:01,228 | INFO | Frame captured: 85
+2026-03-06 00:18:01,269 | INFO | Frame captured: 86
+2026-03-06 00:18:01,321 | INFO | Frame captured: 87
+2026-03-06 00:18:01,357 | INFO | Frame captured: 88
+2026-03-06 00:18:01,393 | INFO | Frame captured: 89
+2026-03-06 00:18:01,428 | INFO | Frame captured: 90
+2026-03-06 00:18:01,463 | INFO | Frame captured: 91
+2026-03-06 00:18:01,497 | INFO | Frame captured: 92
+2026-03-06 00:18:01,531 | INFO | Frame captured: 93
+2026-03-06 00:18:01,566 | INFO | Frame captured: 94
+2026-03-06 00:18:01,600 | INFO | Frame captured: 95
+2026-03-06 00:18:01,638 | INFO | Frame captured: 96
+2026-03-06 00:18:01,673 | INFO | Frame captured: 97
+2026-03-06 00:18:01,721 | INFO | Frame captured: 98
+2026-03-06 00:18:01,760 | INFO | Frame captured: 99
+2026-03-06 00:18:01,814 | INFO | Frame captured: 100
+2026-03-06 00:18:01,877 | INFO | Frame captured: 101
+2026-03-06 00:18:01,941 | INFO | Frame captured: 102
+2026-03-06 00:18:02,010 | INFO | Frame captured: 103
+2026-03-06 00:18:02,050 | INFO | Frame captured: 104
+2026-03-06 00:18:02,082 | INFO | Frame captured: 105
+2026-03-06 00:18:02,120 | INFO | Frame captured: 106
+2026-03-06 00:18:02,185 | INFO | Frame captured: 107
+2026-03-06 00:18:02,247 | INFO | Frame captured: 108
+2026-03-06 00:18:02,308 | INFO | Frame captured: 109
+2026-03-06 00:18:02,367 | INFO | Frame captured: 110
+2026-03-06 00:18:02,424 | INFO | Frame captured: 111
+2026-03-06 00:18:02,474 | INFO | Frame captured: 112
+2026-03-06 00:18:02,529 | INFO | Frame captured: 113
+2026-03-06 00:18:02,563 | INFO | Frame captured: 114
+2026-03-06 00:18:02,596 | INFO | Frame captured: 115
+2026-03-06 00:18:02,630 | INFO | Frame captured: 116
+2026-03-06 00:18:02,668 | INFO | Frame captured: 117
+2026-03-06 00:18:02,706 | INFO | Frame captured: 118
+2026-03-06 00:18:02,751 | INFO | Frame captured: 119
+2026-03-06 00:18:02,783 | INFO | Frame captured: 120
+2026-03-06 00:18:02,819 | INFO | Frame captured: 121
+2026-03-06 00:18:02,856 | INFO | Frame captured: 122
+2026-03-06 00:18:02,907 | INFO | Frame captured: 123
+2026-03-06 00:18:02,958 | INFO | Frame captured: 124
+2026-03-06 00:18:03,013 | INFO | Frame captured: 125
+2026-03-06 00:18:03,063 | INFO | Frame captured: 126
+2026-03-06 00:18:03,095 | INFO | Frame captured: 127
+2026-03-06 00:18:03,131 | INFO | Frame captured: 128
+2026-03-06 00:18:03,171 | INFO | Frame captured: 129
+2026-03-06 00:18:03,215 | INFO | Frame captured: 130
+2026-03-06 00:18:03,250 | INFO | Frame captured: 131
+2026-03-06 00:18:03,285 | INFO | Frame captured: 132
+2026-03-06 00:18:03,318 | INFO | Frame captured: 133
+2026-03-06 00:18:03,350 | INFO | Frame captured: 134
+2026-03-06 00:18:03,387 | INFO | Frame captured: 135
+2026-03-06 00:18:03,422 | INFO | Frame captured: 136
+2026-03-06 00:18:03,456 | INFO | Frame captured: 137
+2026-03-06 00:18:03,493 | INFO | Frame captured: 138
+2026-03-06 00:18:03,527 | INFO | Frame captured: 139
+2026-03-06 00:18:03,560 | INFO | Frame captured: 140
+2026-03-06 00:18:03,598 | INFO | Frame captured: 141
+2026-03-06 00:18:03,631 | INFO | Frame captured: 142
+2026-03-06 00:18:03,673 | INFO | Frame captured: 143
+2026-03-06 00:18:03,727 | INFO | Frame captured: 144
+2026-03-06 00:18:03,782 | INFO | Frame captured: 145
+2026-03-06 00:18:03,831 | INFO | Frame captured: 146
+2026-03-06 00:18:03,878 | INFO | Frame captured: 147
+2026-03-06 00:18:03,927 | INFO | Frame captured: 148
+2026-03-06 00:18:03,967 | INFO | Frame captured: 149
+2026-03-06 00:18:04,008 | INFO | Frame captured: 150
+2026-03-06 00:18:04,055 | INFO | Frame captured: 151
+2026-03-06 00:18:04,092 | INFO | Frame captured: 152
+2026-03-06 00:18:04,134 | INFO | Frame captured: 153
+2026-03-06 00:18:04,196 | INFO | Frame captured: 154
+2026-03-06 00:18:04,251 | INFO | Frame captured: 155
+2026-03-06 00:18:04,291 | INFO | Frame captured: 156
+2026-03-06 00:18:04,338 | INFO | Frame captured: 157
+2026-03-06 00:18:04,379 | INFO | Frame captured: 158
+2026-03-06 00:18:04,417 | INFO | Frame captured: 159
+2026-03-06 00:18:04,458 | INFO | Frame captured: 160
+2026-03-06 00:18:04,500 | INFO | Frame captured: 161
+2026-03-06 00:18:04,560 | INFO | Frame captured: 162
+2026-03-06 00:18:04,604 | INFO | Frame captured: 163
+2026-03-06 00:18:04,640 | INFO | Frame captured: 164
+2026-03-06 00:18:04,676 | INFO | Frame captured: 165
+2026-03-06 00:18:04,717 | INFO | Frame captured: 166
+2026-03-06 00:18:04,761 | INFO | Frame captured: 167
+2026-03-06 00:18:04,797 | INFO | Frame captured: 168
+2026-03-06 00:18:04,830 | INFO | Frame captured: 169
+2026-03-06 00:18:04,865 | INFO | Frame captured: 170
+2026-03-06 00:18:04,906 | INFO | Frame captured: 171
+2026-03-06 00:18:04,955 | INFO | Frame captured: 172
+2026-03-06 00:18:04,997 | INFO | Frame captured: 173
+2026-03-06 00:18:05,037 | INFO | Frame captured: 174
+2026-03-06 00:18:05,074 | INFO | Frame captured: 175
+2026-03-06 00:18:05,115 | INFO | Frame captured: 176
+2026-03-06 00:18:05,151 | INFO | Frame captured: 177
+2026-03-06 00:18:05,184 | INFO | Frame captured: 178
+2026-03-06 00:18:05,219 | INFO | Frame captured: 179
+2026-03-06 00:18:05,252 | INFO | Frame captured: 180
+2026-03-06 00:18:05,289 | INFO | Frame captured: 181
+2026-03-06 00:18:05,323 | INFO | Frame captured: 182
+2026-03-06 00:18:05,362 | INFO | Frame captured: 183
+2026-03-06 00:18:05,397 | INFO | Frame captured: 184
+2026-03-06 00:18:05,426 | INFO | Frame captured: 185
+2026-03-06 00:18:05,461 | INFO | Frame captured: 186
+2026-03-06 00:18:05,500 | INFO | Frame captured: 187
+2026-03-06 00:18:05,532 | INFO | Frame captured: 188
+2026-03-06 00:18:05,567 | INFO | Frame captured: 189
+2026-03-06 00:18:05,600 | INFO | Frame captured: 190
+2026-03-06 00:18:05,638 | INFO | Frame captured: 191
+2026-03-06 00:18:05,673 | INFO | Frame captured: 192
+2026-03-06 00:18:05,705 | INFO | Frame captured: 193
+2026-03-06 00:18:05,741 | INFO | Frame captured: 194
+2026-03-06 00:18:05,778 | INFO | Frame captured: 195
+2026-03-06 00:18:05,814 | INFO | Frame captured: 196
+2026-03-06 00:18:05,866 | INFO | Frame captured: 197
+2026-03-06 00:18:05,910 | INFO | Frame captured: 198
+2026-03-06 00:18:05,942 | INFO | Frame captured: 199
+2026-03-06 00:18:05,984 | INFO | Frame captured: 200
+2026-03-06 00:18:06,041 | INFO | Frame captured: 201
+2026-03-06 00:18:06,101 | INFO | Frame captured: 202
+2026-03-06 00:18:06,161 | INFO | Frame captured: 203
+2026-03-06 00:18:06,218 | INFO | Frame captured: 204
+2026-03-06 00:18:06,269 | INFO | Frame captured: 205
+2026-03-06 00:18:06,313 | INFO | Frame captured: 206
+2026-03-06 00:18:06,351 | INFO | Frame captured: 207
+2026-03-06 00:18:06,398 | INFO | Frame captured: 208
+2026-03-06 00:18:06,448 | INFO | Frame captured: 209
+2026-03-06 00:18:06,495 | INFO | Frame captured: 210
+2026-03-06 00:18:06,546 | INFO | Frame captured: 211
+2026-03-06 00:18:06,582 | INFO | Frame captured: 212
+2026-03-06 00:18:06,622 | INFO | Frame captured: 213
+2026-03-06 00:18:06,668 | INFO | Frame captured: 214
+2026-03-06 00:18:06,717 | INFO | Frame captured: 215
+2026-03-06 00:18:06,768 | INFO | Frame captured: 216
+2026-03-06 00:18:06,802 | INFO | Frame captured: 217
+2026-03-06 00:18:06,837 | INFO | Frame captured: 218
+2026-03-06 00:18:06,874 | INFO | Frame captured: 219
+2026-03-06 00:18:06,907 | INFO | Frame captured: 220
+2026-03-06 00:18:06,940 | INFO | Frame captured: 221
+2026-03-06 00:18:06,976 | INFO | Frame captured: 222
+2026-03-06 00:18:07,009 | INFO | Frame captured: 223
+2026-03-06 00:18:07,048 | INFO | Frame captured: 224
+2026-03-06 00:18:07,085 | INFO | Frame captured: 225
+2026-03-06 00:18:07,121 | INFO | Frame captured: 226
+2026-03-06 00:18:07,157 | INFO | Frame captured: 227
+2026-03-06 00:18:07,192 | INFO | Frame captured: 228
+2026-03-06 00:18:07,228 | INFO | Frame captured: 229
+2026-03-06 00:18:07,262 | INFO | Frame captured: 230
+2026-03-06 00:18:07,297 | INFO | Frame captured: 231
+2026-03-06 00:18:07,332 | INFO | Frame captured: 232
+2026-03-06 00:18:07,365 | INFO | Frame captured: 233
+2026-03-06 00:18:07,399 | INFO | Frame captured: 234
+2026-03-06 00:18:07,434 | INFO | Frame captured: 235
+2026-03-06 00:18:07,468 | INFO | Frame captured: 236
+2026-03-06 00:18:07,505 | INFO | Frame captured: 237
+2026-03-06 00:18:07,538 | INFO | Frame captured: 238
+2026-03-06 00:18:07,575 | INFO | Frame captured: 239
+2026-03-06 00:18:07,610 | INFO | Frame captured: 240
+2026-03-06 00:18:07,642 | INFO | Frame captured: 241
+2026-03-06 00:18:07,678 | INFO | Frame captured: 242
+2026-03-06 00:18:07,711 | INFO | Frame captured: 243
+2026-03-06 00:18:07,746 | INFO | Frame captured: 244
+2026-03-06 00:18:07,792 | INFO | Frame captured: 245
+2026-03-06 00:18:07,826 | INFO | Frame captured: 246
+2026-03-06 00:18:07,858 | INFO | Frame captured: 247
+2026-03-06 00:18:07,894 | INFO | Frame captured: 248
+2026-03-06 00:18:07,931 | INFO | Frame captured: 249
+2026-03-06 00:18:07,961 | INFO | Frame captured: 250
+2026-03-06 00:18:07,997 | INFO | Frame captured: 251
+2026-03-06 00:18:08,039 | INFO | Frame captured: 252
+2026-03-06 00:18:08,080 | INFO | Frame captured: 253
+2026-03-06 00:18:08,114 | INFO | Frame captured: 254
+2026-03-06 00:18:08,149 | INFO | Frame captured: 255
+2026-03-06 00:18:08,183 | INFO | Frame captured: 256
+2026-03-06 00:18:08,218 | INFO | Frame captured: 257
+2026-03-06 00:18:08,262 | INFO | Frame captured: 258
+2026-03-06 00:18:08,295 | INFO | Frame captured: 259
+2026-03-06 00:18:08,331 | INFO | Frame captured: 260
+2026-03-06 00:18:08,365 | INFO | Frame captured: 261
+2026-03-06 00:18:13,529 | INFO | Frame captured: 262
+2026-03-06 00:18:13,573 | INFO | Frame captured: 263
+2026-03-06 00:18:13,613 | INFO | Frame captured: 264
+2026-03-06 00:18:13,668 | INFO | Frame captured: 265
+2026-03-06 00:18:13,742 | INFO | Frame captured: 266
+2026-03-06 00:18:13,794 | INFO | Frame captured: 267
+2026-03-06 00:18:13,855 | INFO | Frame captured: 268
+2026-03-06 00:18:13,893 | INFO | Frame captured: 269
+2026-03-06 00:18:13,926 | INFO | Frame captured: 270
+2026-03-06 00:18:13,963 | INFO | Frame captured: 271
+2026-03-06 00:18:13,999 | INFO | Frame captured: 272
+2026-03-06 00:18:14,038 | INFO | Frame captured: 273
+2026-03-06 00:18:14,087 | INFO | Frame captured: 274
+2026-03-06 00:18:14,145 | INFO | Frame captured: 275
+2026-03-06 00:18:14,207 | INFO | Frame captured: 276
+2026-03-06 00:18:14,244 | INFO | Frame captured: 277
+2026-03-06 00:18:14,277 | INFO | Frame captured: 278
+2026-03-06 00:18:14,310 | INFO | Frame captured: 279
+2026-03-06 00:18:14,348 | INFO | Frame captured: 280
+2026-03-06 00:18:14,379 | INFO | Frame captured: 281
+2026-03-06 00:18:14,415 | INFO | Frame captured: 282
+2026-03-06 00:18:14,450 | INFO | Frame captured: 283
+2026-03-06 00:18:14,482 | INFO | Frame captured: 284
+2026-03-06 00:18:14,521 | INFO | Frame captured: 285
+2026-03-06 00:18:14,556 | INFO | Frame captured: 286
+2026-03-06 00:18:14,585 | INFO | Frame captured: 287
+2026-03-06 00:18:14,628 | INFO | Frame captured: 288
+2026-03-06 00:18:14,670 | INFO | Frame captured: 289
+2026-03-06 00:18:14,715 | INFO | Frame captured: 290
+2026-03-06 00:18:14,752 | INFO | Frame captured: 291
+2026-03-06 00:18:14,803 | INFO | Frame captured: 292
+2026-03-06 00:18:14,854 | INFO | Frame captured: 293
+2026-03-06 00:18:14,895 | INFO | Frame captured: 294
+2026-03-06 00:18:14,933 | INFO | Frame captured: 295
+2026-03-06 00:18:14,974 | INFO | Frame captured: 296
+2026-03-06 00:18:15,022 | INFO | Frame captured: 297
+2026-03-06 00:18:15,061 | INFO | Frame captured: 298
+2026-03-06 00:18:15,100 | INFO | Frame captured: 299
+2026-03-06 00:18:15,137 | INFO | Frame captured: 300
+2026-03-06 00:18:15,171 | INFO | Frame captured: 301
+2026-03-06 00:18:15,204 | INFO | Frame captured: 302
+2026-03-06 00:18:15,243 | INFO | Frame captured: 303
+2026-03-06 00:18:15,279 | INFO | Frame captured: 304
+2026-03-06 00:18:15,318 | INFO | Frame captured: 305
+2026-03-06 00:18:15,359 | INFO | Frame captured: 306
+2026-03-06 00:18:15,396 | INFO | Frame captured: 307
+2026-03-06 00:18:15,431 | INFO | Frame captured: 308
+2026-03-06 00:18:15,463 | INFO | Frame captured: 309
+2026-03-06 00:18:15,506 | INFO | Frame captured: 310
+2026-03-06 00:18:15,541 | INFO | Frame captured: 311
+2026-03-06 00:18:15,571 | INFO | Frame captured: 312
+2026-03-06 00:18:15,617 | INFO | Frame captured: 313
+2026-03-06 00:18:15,681 | INFO | Frame captured: 314
+2026-03-06 00:18:15,746 | INFO | Frame captured: 315
+2026-03-06 00:18:15,803 | INFO | Frame captured: 316
+2026-03-06 00:18:15,853 | INFO | Frame captured: 317
+2026-03-06 00:18:15,888 | INFO | Frame captured: 318
+2026-03-06 00:18:15,922 | INFO | Frame captured: 319
+2026-03-06 00:18:15,962 | INFO | Frame captured: 320
+2026-03-06 00:18:16,006 | INFO | Frame captured: 321
+2026-03-06 00:18:16,042 | INFO | Frame captured: 322
+2026-03-06 00:18:16,073 | INFO | Frame captured: 323
+2026-03-06 00:18:16,107 | INFO | Frame captured: 324
+2026-03-06 00:18:16,141 | INFO | Frame captured: 325
+2026-03-06 00:18:16,182 | INFO | Frame captured: 326
+2026-03-06 00:18:16,249 | INFO | Frame captured: 327
+2026-03-06 00:18:16,304 | INFO | Frame captured: 328
+2026-03-06 00:18:16,357 | INFO | Frame captured: 329
+2026-03-06 00:18:16,407 | INFO | Frame captured: 330
+2026-03-06 00:18:16,464 | INFO | Frame captured: 331
+2026-03-06 00:18:16,510 | INFO | Frame captured: 332
+2026-03-06 00:18:16,550 | INFO | Frame captured: 333
+2026-03-06 00:18:16,596 | INFO | Frame captured: 334
+2026-03-06 00:18:16,631 | INFO | Frame captured: 335
+2026-03-06 00:18:16,665 | INFO | Frame captured: 336
+2026-03-06 00:18:16,698 | INFO | Frame captured: 337
+2026-03-06 00:18:16,733 | INFO | Frame captured: 338
+2026-03-06 00:18:16,774 | INFO | Frame captured: 339
+2026-03-06 00:18:16,825 | INFO | Frame captured: 340
+2026-03-06 00:18:16,872 | INFO | Frame captured: 341
+2026-03-06 00:18:16,926 | INFO | Frame captured: 342
+2026-03-06 00:18:16,985 | INFO | Frame captured: 343
+2026-03-06 00:18:17,043 | INFO | Frame captured: 344
+2026-03-06 00:18:17,099 | INFO | Frame captured: 345
+2026-03-06 00:18:17,138 | INFO | Frame captured: 346
+2026-03-06 00:18:17,171 | INFO | Frame captured: 347
+2026-03-06 00:18:17,205 | INFO | Frame captured: 348
+2026-03-06 00:18:17,242 | INFO | Frame captured: 349
+2026-03-06 00:18:17,276 | INFO | Frame captured: 350
+2026-03-06 00:18:17,308 | INFO | Frame captured: 351
+2026-03-06 00:18:17,349 | INFO | Frame captured: 352
+2026-03-06 00:18:17,402 | INFO | Frame captured: 353
+2026-03-06 00:18:17,443 | INFO | Frame captured: 354
+2026-03-06 00:18:17,480 | INFO | Frame captured: 355
+2026-03-06 00:18:17,512 | INFO | Frame captured: 356
+2026-03-06 00:18:17,551 | INFO | Frame captured: 357
+2026-03-06 00:18:17,592 | INFO | Frame captured: 358
+2026-03-06 00:18:17,643 | INFO | Frame captured: 359
+2026-03-06 00:18:17,682 | INFO | Frame captured: 360
+2026-03-06 00:18:17,728 | INFO | Frame captured: 361
+2026-03-06 00:18:17,773 | INFO | Frame captured: 362
+2026-03-06 00:18:17,821 | INFO | Frame captured: 363
+2026-03-06 00:18:17,875 | INFO | Frame captured: 364
+2026-03-06 00:18:17,908 | INFO | Frame captured: 365
+2026-03-06 00:18:17,948 | INFO | Frame captured: 366
+2026-03-06 00:18:17,991 | INFO | Frame captured: 367
+2026-03-06 00:18:18,029 | INFO | Frame captured: 368
+2026-03-06 00:18:18,083 | INFO | Frame captured: 369
+2026-03-06 00:18:18,125 | INFO | Frame captured: 370
+2026-03-06 00:18:18,158 | INFO | Frame captured: 371
+2026-03-06 00:18:18,190 | INFO | Frame captured: 372
+2026-03-06 00:18:18,231 | INFO | Frame captured: 373
+2026-03-06 00:18:18,270 | INFO | Frame captured: 374
+2026-03-06 00:18:26,630 | INFO | Frame captured: 375
+2026-03-06 00:19:19,342 | INFO | Frame captured: 0
+2026-03-06 00:19:19,392 | INFO | Frame captured: 1
+2026-03-06 00:19:19,438 | INFO | Frame captured: 2
+2026-03-06 00:19:19,481 | INFO | Frame captured: 3
+2026-03-06 00:19:19,538 | INFO | Frame captured: 4
+2026-03-06 00:19:19,585 | INFO | Frame captured: 5
+2026-03-06 00:19:19,626 | INFO | Frame captured: 6
+2026-03-06 00:19:19,664 | INFO | Frame captured: 7
+2026-03-06 00:19:19,699 | INFO | Frame captured: 8
+2026-03-06 00:19:19,733 | INFO | Frame captured: 9
+2026-03-06 00:19:19,768 | INFO | Frame captured: 10
+2026-03-06 00:19:19,808 | INFO | Frame captured: 11
+2026-03-06 00:19:19,848 | INFO | Frame captured: 12
+2026-03-06 00:19:19,894 | INFO | Frame captured: 13
+2026-03-06 00:19:19,933 | INFO | Frame captured: 14
+2026-03-06 00:19:19,975 | INFO | Frame captured: 15
+2026-03-06 00:19:20,019 | INFO | Frame captured: 16
+2026-03-06 00:19:20,056 | INFO | Frame captured: 17
+2026-03-06 00:19:20,098 | INFO | Frame captured: 18
+2026-03-06 00:19:20,138 | INFO | Frame captured: 19
+2026-03-06 00:19:20,170 | INFO | Frame captured: 20
+2026-03-06 00:19:20,209 | INFO | Frame captured: 21
+2026-03-06 00:19:20,249 | INFO | Frame captured: 22
+2026-03-06 00:19:20,294 | INFO | Frame captured: 23
+2026-03-06 00:19:20,330 | INFO | Frame captured: 24
+2026-03-06 00:19:20,365 | INFO | Frame captured: 25
+2026-03-06 00:19:20,401 | INFO | Frame captured: 26
+2026-03-06 00:19:20,439 | INFO | Frame captured: 27
+2026-03-06 00:19:20,479 | INFO | Frame captured: 28
+2026-03-06 00:19:23,114 | INFO | Frame captured: 29
+2026-03-06 00:19:23,153 | INFO | Frame captured: 30
+2026-03-06 00:19:23,194 | INFO | Frame captured: 31
+2026-03-06 00:19:23,232 | INFO | Frame captured: 32
+2026-03-06 00:19:23,269 | INFO | Frame captured: 33
+2026-03-06 00:19:23,312 | INFO | Frame captured: 34
+2026-03-06 00:19:23,352 | INFO | Frame captured: 35
+2026-03-06 00:19:23,389 | INFO | Frame captured: 36
+2026-03-06 00:19:23,426 | INFO | Frame captured: 37
+2026-03-06 00:19:23,461 | INFO | Frame captured: 38
+2026-03-06 00:19:23,496 | INFO | Frame captured: 39
+2026-03-06 00:19:23,532 | INFO | Frame captured: 40
+2026-03-06 00:19:23,564 | INFO | Frame captured: 41
+2026-03-06 00:19:23,603 | INFO | Frame captured: 42
+2026-03-06 00:19:23,817 | INFO | Frame captured: 43
+2026-03-06 00:19:23,856 | INFO | Frame captured: 44
+2026-03-06 00:19:23,895 | INFO | Frame captured: 45
+2026-03-06 00:19:23,938 | INFO | Frame captured: 46
+2026-03-06 00:19:23,978 | INFO | Frame captured: 47
+2026-03-06 00:19:24,012 | INFO | Frame captured: 48
+2026-03-06 00:19:24,046 | INFO | Frame captured: 49
+2026-03-06 00:19:24,079 | INFO | Frame captured: 50
+2026-03-06 00:19:24,116 | INFO | Frame captured: 51
+2026-03-06 00:19:24,148 | INFO | Frame captured: 52
+2026-03-06 00:19:24,183 | INFO | Frame captured: 53
+2026-03-06 00:19:24,218 | INFO | Frame captured: 54
+2026-03-06 00:19:24,256 | INFO | Frame captured: 55
+2026-03-06 00:19:24,286 | INFO | Frame captured: 56
+2026-03-06 00:19:24,321 | INFO | Frame captured: 57
+2026-03-06 00:19:24,361 | INFO | Frame captured: 58
+2026-03-06 00:19:24,406 | INFO | Frame captured: 59
+2026-03-06 00:19:24,452 | INFO | Frame captured: 60
+2026-03-06 00:19:24,507 | INFO | Frame captured: 61
+2026-03-06 00:19:24,556 | INFO | Frame captured: 62
+2026-03-06 00:19:24,602 | INFO | Frame captured: 63
+2026-03-06 00:19:24,645 | INFO | Frame captured: 64
+2026-03-06 00:19:24,681 | INFO | Frame captured: 65
+2026-03-06 00:19:24,727 | INFO | Frame captured: 66
+2026-03-06 00:19:24,774 | INFO | Frame captured: 67
+2026-03-06 00:19:24,823 | INFO | Frame captured: 68
+2026-03-06 00:19:24,863 | INFO | Frame captured: 69
+2026-03-06 00:19:24,900 | INFO | Frame captured: 70
+2026-03-06 00:19:24,934 | INFO | Frame captured: 71
+2026-03-06 00:19:24,969 | INFO | Frame captured: 72
+2026-03-06 00:19:25,007 | INFO | Frame captured: 73
+2026-03-06 00:19:25,047 | INFO | Frame captured: 74
+2026-03-06 00:19:25,087 | INFO | Frame captured: 75
+2026-03-06 00:19:25,127 | INFO | Frame captured: 76
+2026-03-06 00:19:25,169 | INFO | Frame captured: 77
+2026-03-06 00:19:25,207 | INFO | Frame captured: 78
+2026-03-06 00:19:25,243 | INFO | Frame captured: 79
+2026-03-06 00:19:25,284 | INFO | Frame captured: 80
+2026-03-06 00:19:25,324 | INFO | Frame captured: 81
+2026-03-06 00:19:25,360 | INFO | Frame captured: 82
+2026-03-06 00:19:25,394 | INFO | Frame captured: 83
+2026-03-06 00:19:25,432 | INFO | Frame captured: 84
+2026-03-06 00:19:25,474 | INFO | Frame captured: 85
+2026-03-06 00:19:25,515 | INFO | Frame captured: 86
+2026-03-06 00:19:25,555 | INFO | Frame captured: 87
+2026-03-06 00:19:25,584 | INFO | Frame captured: 88
+2026-03-06 00:19:25,626 | INFO | Frame captured: 89
+2026-03-06 00:19:25,667 | INFO | Frame captured: 90
+2026-03-06 00:19:25,711 | INFO | Frame captured: 91
+2026-03-06 00:19:25,751 | INFO | Frame captured: 92
+2026-03-06 00:19:25,791 | INFO | Frame captured: 93
+2026-03-06 00:19:25,833 | INFO | Frame captured: 94
+2026-03-06 00:19:25,878 | INFO | Frame captured: 95
+2026-03-06 00:19:25,922 | INFO | Frame captured: 96
+2026-03-06 00:19:25,963 | INFO | Frame captured: 97
+2026-03-06 00:19:26,008 | INFO | Frame captured: 98
+2026-03-06 00:19:26,054 | INFO | Frame captured: 99
+2026-03-06 00:19:26,097 | INFO | Frame captured: 100
+2026-03-06 00:19:26,136 | INFO | Frame captured: 101
+2026-03-06 00:19:26,174 | INFO | Frame captured: 102
+2026-03-06 00:19:26,222 | INFO | Frame captured: 103
+2026-03-06 00:19:26,265 | INFO | Frame captured: 104
+2026-03-06 00:19:26,310 | INFO | Frame captured: 105
+2026-03-06 00:19:26,347 | INFO | Frame captured: 106
+2026-03-06 00:19:26,397 | INFO | Frame captured: 107
+2026-03-06 00:19:26,438 | INFO | Frame captured: 108
+2026-03-06 00:19:26,484 | INFO | Frame captured: 109
+2026-03-06 00:19:26,520 | INFO | Frame captured: 110
+2026-03-06 00:19:26,553 | INFO | Frame captured: 111
+2026-03-06 00:19:26,588 | INFO | Frame captured: 112
+2026-03-06 00:19:26,630 | INFO | Frame captured: 113
+2026-03-06 00:19:26,666 | INFO | Frame captured: 114
+2026-03-06 00:19:26,704 | INFO | Frame captured: 115
+2026-03-06 00:19:26,741 | INFO | Frame captured: 116
+2026-03-06 00:19:26,775 | INFO | Frame captured: 117
+2026-03-06 00:19:26,812 | INFO | Frame captured: 118
+2026-03-06 00:19:26,863 | INFO | Frame captured: 119
+2026-03-06 00:19:26,909 | INFO | Frame captured: 120
+2026-03-06 00:19:26,955 | INFO | Frame captured: 121
+2026-03-06 00:19:26,998 | INFO | Frame captured: 122
+2026-03-06 00:19:27,034 | INFO | Frame captured: 123
+2026-03-06 00:19:27,070 | INFO | Frame captured: 124
+2026-03-06 00:19:27,110 | INFO | Frame captured: 125
+2026-03-06 00:19:27,139 | INFO | Frame captured: 126
+2026-03-06 00:19:27,180 | INFO | Frame captured: 127
+2026-03-06 00:19:28,225 | INFO | Frame captured: 128
+2026-03-06 00:19:28,263 | INFO | Frame captured: 129
+2026-03-06 00:19:28,318 | INFO | Frame captured: 130
+2026-03-06 00:19:28,373 | INFO | Frame captured: 131
+2026-03-06 00:19:28,417 | INFO | Frame captured: 132
+2026-03-06 00:19:28,459 | INFO | Frame captured: 133
+2026-03-06 00:19:28,499 | INFO | Frame captured: 134
+2026-03-06 00:19:28,532 | INFO | Frame captured: 135
+2026-03-06 00:19:28,569 | INFO | Frame captured: 136
+2026-03-06 00:19:28,611 | INFO | Frame captured: 137
+2026-03-06 00:19:28,649 | INFO | Frame captured: 138
+2026-03-06 00:19:28,690 | INFO | Frame captured: 139
+2026-03-06 00:19:28,726 | INFO | Frame captured: 140
+2026-03-06 00:19:28,763 | INFO | Frame captured: 141
+2026-03-06 00:19:28,803 | INFO | Frame captured: 142
+2026-03-06 00:19:28,837 | INFO | Frame captured: 143
+2026-03-06 00:19:28,877 | INFO | Frame captured: 144
+2026-03-06 00:19:28,915 | INFO | Frame captured: 145
+2026-03-06 00:19:28,950 | INFO | Frame captured: 146
+2026-03-06 00:19:28,983 | INFO | Frame captured: 147
+2026-03-06 00:19:29,015 | INFO | Frame captured: 148
+2026-03-06 00:19:29,054 | INFO | Frame captured: 149
+2026-03-06 00:19:29,088 | INFO | Frame captured: 150
+2026-03-06 00:19:29,122 | INFO | Frame captured: 151
+2026-03-06 00:19:29,158 | INFO | Frame captured: 152
+2026-03-06 00:19:29,195 | INFO | Frame captured: 153
+2026-03-06 00:19:29,239 | INFO | Frame captured: 154
+2026-03-06 00:19:29,294 | INFO | Frame captured: 155
+2026-03-06 00:19:29,336 | INFO | Frame captured: 156
+2026-03-06 00:19:29,375 | INFO | Frame captured: 157
+2026-03-06 00:19:29,416 | INFO | Frame captured: 158
+2026-03-06 00:19:29,451 | INFO | Frame captured: 159
+2026-03-06 00:19:29,496 | INFO | Frame captured: 160
+2026-03-06 00:19:29,533 | INFO | Frame captured: 161
+2026-03-06 00:19:29,568 | INFO | Frame captured: 162
+2026-03-06 00:19:29,600 | INFO | Frame captured: 163
+2026-03-06 00:19:29,639 | INFO | Frame captured: 164
+2026-03-06 00:19:29,685 | INFO | Frame captured: 165
+2026-03-06 00:19:29,719 | INFO | Frame captured: 166
+2026-03-06 00:19:29,754 | INFO | Frame captured: 167
+2026-03-06 00:19:29,787 | INFO | Frame captured: 168
+2026-03-06 00:19:29,824 | INFO | Frame captured: 169
+2026-03-06 00:19:29,857 | INFO | Frame captured: 170
+2026-03-06 00:19:29,893 | INFO | Frame captured: 171
+2026-03-06 00:19:29,926 | INFO | Frame captured: 172
+2026-03-06 00:19:29,963 | INFO | Frame captured: 173
+2026-03-06 00:19:29,999 | INFO | Frame captured: 174
+2026-03-06 00:19:30,032 | INFO | Frame captured: 175
+2026-03-06 00:19:30,067 | INFO | Frame captured: 176
+2026-03-06 00:19:30,107 | INFO | Frame captured: 177
+2026-03-06 00:19:30,147 | INFO | Frame captured: 178
+2026-03-06 00:19:30,190 | INFO | Frame captured: 179
+2026-03-06 00:19:30,262 | INFO | Frame captured: 180
+2026-03-06 00:19:30,337 | INFO | Frame captured: 181
+2026-03-06 00:19:30,382 | INFO | Frame captured: 182
+2026-03-06 00:19:30,424 | INFO | Frame captured: 183
+2026-03-06 00:19:30,473 | INFO | Frame captured: 184
+2026-03-06 00:19:30,512 | INFO | Frame captured: 185
+2026-03-06 00:19:37,538 | INFO | Frame captured: 186
+2026-03-06 00:19:37,579 | INFO | Frame captured: 187
+2026-03-06 00:19:37,789 | INFO | Frame captured: 188
+2026-03-06 00:19:38,095 | INFO | Frame captured: 189
+2026-03-06 00:19:38,128 | INFO | Frame captured: 190
+2026-03-06 00:19:38,253 | INFO | Frame captured: 191
+2026-03-06 00:19:38,287 | INFO | Frame captured: 192
+2026-03-06 00:19:39,667 | INFO | Frame captured: 193
+2026-03-06 00:19:49,025 | INFO | Frame captured: 194
+2026-03-06 00:19:49,063 | INFO | Frame captured: 195
+2026-03-06 00:19:49,134 | INFO | Frame captured: 196
+2026-03-06 00:19:51,717 | INFO | Frame captured: 197
+2026-03-06 00:19:51,766 | INFO | Frame captured: 198
+2026-03-06 00:19:51,809 | INFO | Frame captured: 199
+2026-03-06 00:19:51,846 | INFO | Frame captured: 200
+2026-03-06 00:19:51,892 | INFO | Frame captured: 201
+2026-03-06 00:19:51,931 | INFO | Frame captured: 202
+2026-03-06 00:19:51,967 | INFO | Frame captured: 203
+2026-03-06 00:19:52,005 | INFO | Frame captured: 204
+2026-03-06 00:19:52,047 | INFO | Frame captured: 205
+2026-03-06 00:19:52,089 | INFO | Frame captured: 206
+2026-03-06 00:19:52,125 | INFO | Frame captured: 207
+2026-03-06 00:19:52,164 | INFO | Frame captured: 208
+2026-03-06 00:19:52,197 | INFO | Frame captured: 209
+2026-03-06 00:19:52,239 | INFO | Frame captured: 210
+2026-03-06 00:19:52,273 | INFO | Frame captured: 211
+2026-03-06 00:19:52,306 | INFO | Frame captured: 212
+2026-03-06 00:19:52,344 | INFO | Frame captured: 213
+2026-03-06 00:19:52,382 | INFO | Frame captured: 214
+2026-03-06 00:19:52,424 | INFO | Frame captured: 215
+2026-03-06 00:19:52,467 | INFO | Frame captured: 216
+2026-03-06 00:19:52,510 | INFO | Frame captured: 217
+2026-03-06 00:19:52,544 | INFO | Frame captured: 218
+2026-03-06 00:19:52,581 | INFO | Frame captured: 219
+2026-03-06 00:19:52,616 | INFO | Frame captured: 220
+2026-03-06 00:19:52,650 | INFO | Frame captured: 221
+2026-03-06 00:19:52,686 | INFO | Frame captured: 222
+2026-03-06 00:19:52,720 | INFO | Frame captured: 223
+2026-03-06 00:19:52,752 | INFO | Frame captured: 224
+2026-03-06 00:19:52,792 | INFO | Frame captured: 225
+2026-03-06 00:19:52,836 | INFO | Frame captured: 226
+2026-03-06 00:19:52,874 | INFO | Frame captured: 227
+2026-03-06 00:19:52,907 | INFO | Frame captured: 228
+2026-03-06 00:19:52,943 | INFO | Frame captured: 229
+2026-03-06 00:19:52,974 | INFO | Frame captured: 230
+2026-03-06 00:19:53,011 | INFO | Frame captured: 231
+2026-03-06 00:19:53,043 | INFO | Frame captured: 232
+2026-03-06 00:19:53,087 | INFO | Frame captured: 233
+2026-03-06 00:19:53,126 | INFO | Frame captured: 234
+2026-03-06 00:19:53,169 | INFO | Frame captured: 235
+2026-03-06 00:19:53,205 | INFO | Frame captured: 236
+2026-03-06 00:19:53,239 | INFO | Frame captured: 237
+2026-03-06 00:19:53,273 | INFO | Frame captured: 238
+2026-03-06 00:19:53,322 | INFO | Frame captured: 239
+2026-03-06 00:19:53,389 | INFO | Frame captured: 240
+2026-03-06 00:19:53,456 | INFO | Frame captured: 241
+2026-03-06 00:19:53,511 | INFO | Frame captured: 242
+2026-03-06 00:19:53,563 | INFO | Frame captured: 243
+2026-03-06 00:19:53,616 | INFO | Frame captured: 244
+2026-03-06 00:19:53,655 | INFO | Frame captured: 245
+2026-03-06 00:19:53,695 | INFO | Frame captured: 246
+2026-03-06 00:19:53,742 | INFO | Frame captured: 247
+2026-03-06 00:19:53,778 | INFO | Frame captured: 248
+2026-03-06 00:19:53,821 | INFO | Frame captured: 249
+2026-03-06 00:19:53,858 | INFO | Frame captured: 250
+2026-03-06 00:19:53,896 | INFO | Frame captured: 251
+2026-03-06 00:19:53,946 | INFO | Frame captured: 252
+2026-03-06 00:19:53,997 | INFO | Frame captured: 253
+2026-03-06 00:19:54,038 | INFO | Frame captured: 254
+2026-03-06 00:19:54,071 | INFO | Frame captured: 255
+2026-03-06 00:19:54,107 | INFO | Frame captured: 256
+2026-03-06 00:19:54,143 | INFO | Frame captured: 257
+2026-03-06 00:19:54,176 | INFO | Frame captured: 258
+2026-03-06 00:19:54,212 | INFO | Frame captured: 259
+2026-03-06 00:19:54,250 | INFO | Frame captured: 260
+2026-03-06 00:19:54,303 | INFO | Frame captured: 261
+2026-03-06 00:19:54,342 | INFO | Frame captured: 262
+2026-03-06 00:19:54,380 | INFO | Frame captured: 263
+2026-03-06 00:19:54,414 | INFO | Frame captured: 264
+2026-03-06 00:19:54,448 | INFO | Frame captured: 265
+2026-03-06 00:19:54,482 | INFO | Frame captured: 266
+2026-03-06 00:19:54,524 | INFO | Frame captured: 267
+2026-03-06 00:19:54,564 | INFO | Frame captured: 268
+2026-03-06 00:19:54,609 | INFO | Frame captured: 269
+2026-03-06 00:19:54,641 | INFO | Frame captured: 270
+2026-03-06 00:19:54,679 | INFO | Frame captured: 271
+2026-03-06 00:19:54,712 | INFO | Frame captured: 272
+2026-03-06 00:19:54,749 | INFO | Frame captured: 273
+2026-03-06 00:19:54,798 | INFO | Frame captured: 274
+2026-03-06 00:19:54,837 | INFO | Frame captured: 275
+2026-03-06 00:19:54,879 | INFO | Frame captured: 276
+2026-03-06 00:19:54,919 | INFO | Frame captured: 277
+2026-03-06 00:19:54,957 | INFO | Frame captured: 278
+2026-03-06 00:19:54,989 | INFO | Frame captured: 279
+2026-03-06 00:19:55,029 | INFO | Frame captured: 280
+2026-03-06 00:19:55,080 | INFO | Frame captured: 281
+2026-03-06 00:19:55,128 | INFO | Frame captured: 282
+2026-03-06 00:19:55,197 | INFO | Frame captured: 283
+2026-03-06 00:19:55,272 | INFO | Frame captured: 284
+2026-03-06 00:19:55,339 | INFO | Frame captured: 285
+2026-03-06 00:19:55,395 | INFO | Frame captured: 286
+2026-03-06 00:19:55,438 | INFO | Frame captured: 287
+2026-03-06 00:19:55,478 | INFO | Frame captured: 288
+2026-03-06 00:19:55,523 | INFO | Frame captured: 289
+2026-03-06 00:19:55,560 | INFO | Frame captured: 290
+2026-03-06 00:19:55,606 | INFO | Frame captured: 291
+2026-03-06 00:19:55,671 | INFO | Frame captured: 292
+2026-03-06 00:19:55,727 | INFO | Frame captured: 293
+2026-03-06 00:19:55,761 | INFO | Frame captured: 294
+2026-03-06 00:19:55,798 | INFO | Frame captured: 295
+2026-03-06 00:19:55,851 | INFO | Frame captured: 296
+2026-03-06 00:19:55,917 | INFO | Frame captured: 297
+2026-03-06 00:19:55,986 | INFO | Frame captured: 298
+2026-03-06 00:19:56,046 | INFO | Frame captured: 299
+2026-03-06 00:19:56,090 | INFO | Frame captured: 300
+2026-03-06 00:19:56,138 | INFO | Frame captured: 301
+2026-03-06 00:19:56,181 | INFO | Frame captured: 302
+2026-03-06 00:19:56,232 | INFO | Frame captured: 303
+2026-03-06 00:19:56,278 | INFO | Frame captured: 304
+2026-03-06 00:19:56,323 | INFO | Frame captured: 305
+2026-03-06 00:19:56,359 | INFO | Frame captured: 306
+2026-03-06 00:19:56,392 | INFO | Frame captured: 307
+2026-03-06 00:20:03,821 | INFO | Frame captured: 308
+2026-03-06 00:20:03,866 | INFO | Frame captured: 309
+2026-03-06 00:20:03,898 | INFO | Frame captured: 310
+2026-03-06 00:20:03,934 | INFO | Frame captured: 311
+2026-03-06 00:20:03,972 | INFO | Frame captured: 312
+2026-03-06 00:20:04,017 | INFO | Frame captured: 313
+2026-03-06 00:20:04,061 | INFO | Frame captured: 314
+2026-03-06 00:20:04,098 | INFO | Frame captured: 315
+2026-03-06 00:20:04,143 | INFO | Frame captured: 316
+2026-03-06 00:20:04,182 | INFO | Frame captured: 317
+2026-03-06 00:20:04,227 | INFO | Frame captured: 318
+2026-03-06 00:20:04,269 | INFO | Frame captured: 319
+2026-03-06 00:20:04,315 | INFO | Frame captured: 320
+2026-03-06 00:20:04,351 | INFO | Frame captured: 321
+2026-03-06 00:20:04,391 | INFO | Frame captured: 322
+2026-03-06 00:20:04,429 | INFO | Frame captured: 323
+2026-03-06 00:20:04,467 | INFO | Frame captured: 324
+2026-03-06 00:20:04,513 | INFO | Frame captured: 325
+2026-03-06 00:20:04,565 | INFO | Frame captured: 326
+2026-03-06 00:20:04,614 | INFO | Frame captured: 327
+2026-03-06 00:20:04,656 | INFO | Frame captured: 328
+2026-03-06 00:20:04,698 | INFO | Frame captured: 329
+2026-03-06 00:20:04,763 | INFO | Frame captured: 330
+2026-03-06 00:20:04,814 | INFO | Frame captured: 331
+2026-03-06 00:20:04,873 | INFO | Frame captured: 332
+2026-03-06 00:20:04,913 | INFO | Frame captured: 333
+2026-03-06 00:36:06,777 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-03-06 00:36:06,785 | WARNING | Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2026-03-06 00:36:11,177 | INFO | Download complete
+2026-03-06 00:36:11,178 | WARNING | Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2026-03-06 00:36:12,880 | INFO | Download complete.
+2026-03-06 00:36:14,539 | INFO | Frame captured: 0
+2026-03-06 00:36:16,232 | INFO | Frame captured: 1
+2026-03-06 00:51:26,152 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-03-06 00:51:28,129 | INFO | Frame captured: 0
+2026-03-06 00:51:28,188 | INFO | Frame captured: 1
+2026-03-06 00:51:29,797 | INFO | Frame captured: 2
+2026-03-06 00:51:38,869 | INFO | Frame captured: 3
+2026-03-06 00:51:38,911 | INFO | Frame captured: 4
+2026-03-06 00:51:44,279 | INFO | Frame captured: 5
+2026-03-06 00:51:44,324 | INFO | Frame captured: 6
+2026-03-06 00:51:44,373 | INFO | Frame captured: 7
+2026-03-06 00:51:44,419 | INFO | Frame captured: 8
+2026-03-06 00:51:44,469 | INFO | Frame captured: 9
+2026-03-06 00:51:44,517 | INFO | Frame captured: 10
+2026-03-06 00:51:44,579 | INFO | Frame captured: 11
+2026-03-06 00:51:44,643 | INFO | Frame captured: 12
+2026-03-06 00:51:44,815 | WARNING | Frame dropped
+2026-03-06 00:51:44,958 | WARNING | Frame dropped
+2026-03-06 00:51:45,115 | WARNING | Frame dropped
+2026-03-06 00:51:45,575 | WARNING | Frame dropped
+2026-03-06 00:51:45,718 | WARNING | Frame dropped
+2026-03-06 00:51:45,862 | WARNING | Frame dropped
+2026-03-06 00:51:46,270 | WARNING | Frame dropped
+2026-03-06 00:51:46,430 | WARNING | Frame dropped
+2026-03-06 00:51:46,573 | WARNING | Frame dropped
+2026-03-06 00:51:47,590 | WARNING | Frame dropped
+2026-03-06 00:51:47,746 | WARNING | Frame dropped
+2026-03-06 00:51:48,034 | WARNING | Frame dropped
+2026-03-06 00:51:48,193 | WARNING | Frame dropped
+2026-03-06 00:51:48,399 | WARNING | Frame dropped
+2026-03-06 00:51:48,590 | WARNING | Frame dropped
+2026-03-06 00:51:49,019 | INFO | Frame captured: 13
+2026-03-06 00:51:49,355 | INFO | Frame captured: 14
+2026-03-06 00:51:49,857 | INFO | Frame captured: 15
+2026-03-06 00:51:50,967 | WARNING | Frame dropped
+2026-03-06 00:51:51,981 | WARNING | Frame dropped
+2026-03-06 00:51:52,997 | WARNING | Frame dropped
+2026-03-06 00:51:54,453 | INFO | Frame captured: 16
+2026-03-06 00:51:55,469 | INFO | Frame captured: 17
+2026-03-06 00:51:56,480 | INFO | Frame captured: 18
+2026-03-06 00:52:03,655 | INFO | Frame captured: 19
+2026-03-06 00:52:05,982 | INFO | Frame captured: 20
+2026-03-06 00:52:06,997 | INFO | Frame captured: 21
+2026-03-06 00:52:08,015 | INFO | Frame captured: 22
+2026-03-06 00:52:09,927 | INFO | Frame captured: 23
+2026-03-06 00:52:10,925 | INFO | Frame captured: 24
+2026-03-06 00:52:14,671 | INFO | Frame captured: 25
+2026-03-06 00:52:15,643 | INFO | Frame captured: 26
+2026-03-06 00:52:17,743 | WARNING | Frame dropped
+2026-03-06 00:52:27,439 | INFO | Frame captured: 27
+2026-03-06 00:52:28,563 | WARNING | Frame dropped
+2026-03-06 00:52:29,568 | WARNING | Frame dropped
+2026-03-06 00:52:30,579 | WARNING | Frame dropped
+2026-03-06 00:52:32,281 | WARNING | Frame dropped
+2026-03-06 00:52:33,141 | INFO | Frame captured: 28
+2026-03-06 00:52:34,254 | WARNING | Frame dropped
+2026-03-06 00:57:16,953 | INFO | Frame captured: 0
+2026-03-06 00:57:16,993 | INFO | Frame captured: 1
+2026-03-06 00:57:17,043 | INFO | Frame captured: 2
+2026-03-06 00:57:17,085 | INFO | Frame captured: 3
+2026-03-06 00:57:17,121 | INFO | Frame captured: 4
+2026-03-06 00:57:17,165 | INFO | Frame captured: 5
+2026-03-06 00:57:17,215 | INFO | Frame captured: 6
+2026-03-06 00:57:17,254 | INFO | Frame captured: 7
+2026-03-06 00:57:17,300 | INFO | Frame captured: 8
+2026-03-06 00:57:17,337 | INFO | Frame captured: 9
+2026-03-06 00:57:18,593 | INFO | Frame captured: 10
+2026-03-06 00:57:33,838 | INFO | Frame captured: 11
+2026-03-06 00:57:33,883 | INFO | Frame captured: 12
+2026-03-06 00:57:33,924 | INFO | Frame captured: 13
+2026-03-06 00:57:33,968 | INFO | Frame captured: 14
+2026-03-06 00:57:34,021 | INFO | Frame captured: 15
+2026-03-06 00:57:34,064 | INFO | Frame captured: 16
+2026-03-06 00:57:34,108 | INFO | Frame captured: 17
+2026-03-06 00:57:34,157 | INFO | Frame captured: 18
+2026-03-06 00:57:34,215 | INFO | Frame captured: 19
+2026-03-06 00:57:34,297 | INFO | Frame captured: 20
+2026-03-06 00:57:34,343 | INFO | Frame captured: 21
+2026-03-06 00:57:35,717 | INFO | Frame captured: 22
+2026-03-06 00:57:36,660 | INFO | Frame captured: 23
+2026-03-06 00:57:36,705 | INFO | Frame captured: 24
+2026-03-06 00:57:36,750 | INFO | Frame captured: 25
+2026-03-06 00:57:36,790 | INFO | Frame captured: 26
+2026-03-06 00:57:36,833 | INFO | Frame captured: 27
+2026-03-06 00:57:36,873 | INFO | Frame captured: 28
+2026-03-06 00:57:36,992 | INFO | Frame captured: 29
+2026-03-06 00:57:37,032 | INFO | Frame captured: 30
+2026-03-06 00:57:37,074 | INFO | Frame captured: 31
+2026-03-06 00:57:37,113 | INFO | Frame captured: 32
+2026-03-06 00:57:37,151 | INFO | Frame captured: 33
+2026-03-06 00:57:37,192 | INFO | Frame captured: 34
+2026-03-06 00:57:37,230 | INFO | Frame captured: 35
+2026-03-06 00:57:37,454 | INFO | Frame captured: 36
+2026-03-06 00:57:37,501 | INFO | Frame captured: 37
+2026-03-06 00:57:37,550 | INFO | Frame captured: 38
+2026-03-06 00:57:37,602 | INFO | Frame captured: 39
+2026-03-06 00:57:37,750 | WARNING | Frame dropped
+2026-03-06 00:57:37,908 | WARNING | Frame dropped
+2026-03-06 00:57:38,067 | WARNING | Frame dropped
+2026-03-06 00:57:38,226 | WARNING | Frame dropped
+2026-03-06 00:57:40,006 | INFO | Frame captured: 40
+2026-03-06 00:57:46,448 | WARNING | Frame dropped
+2026-03-06 00:57:46,954 | WARNING | Frame dropped
+2026-03-06 00:57:47,114 | WARNING | Frame dropped
+2026-03-06 00:57:47,272 | WARNING | Frame dropped
+2026-03-06 00:57:47,796 | WARNING | Frame dropped
+2026-03-06 00:57:47,938 | WARNING | Frame dropped
+2026-03-06 00:57:48,096 | WARNING | Frame dropped
+2026-03-06 00:57:48,254 | WARNING | Frame dropped
+2026-03-06 00:57:48,413 | WARNING | Frame dropped
+2026-03-06 00:57:48,557 | WARNING | Frame dropped
+2026-03-06 00:57:48,701 | WARNING | Frame dropped
+2026-03-06 00:57:49,302 | WARNING | Frame dropped
+2026-03-06 00:57:49,398 | INFO | Frame captured: 41
+2026-03-06 00:57:49,533 | INFO | Frame captured: 42
+2026-03-06 00:57:52,700 | INFO | Frame captured: 43
+2026-03-06 00:57:52,885 | INFO | Frame captured: 44
+2026-03-06 00:57:53,090 | INFO | Frame captured: 45
+2026-03-06 00:57:53,340 | INFO | Frame captured: 46
+2026-03-06 00:57:54,338 | INFO | Frame captured: 47
+2026-03-06 00:57:54,853 | INFO | Frame captured: 48
+2026-03-06 00:57:55,864 | INFO | Frame captured: 49
+2026-03-06 00:57:56,981 | WARNING | Frame dropped
+2026-03-06 00:57:58,188 | WARNING | Frame dropped
+2026-03-06 00:57:59,245 | WARNING | Frame dropped
+2026-03-06 00:58:00,267 | WARNING | Frame dropped
+2026-03-06 01:06:04,205 | INFO | Frame captured: 0
+2026-03-06 01:06:04,245 | INFO | Frame captured: 1
+2026-03-06 01:06:04,289 | INFO | Frame captured: 2
+2026-03-06 01:06:04,332 | INFO | Frame captured: 3
+2026-03-06 01:06:28,959 | INFO | Frame captured: 4
+2026-03-06 01:06:29,000 | INFO | Frame captured: 5
+2026-03-06 01:06:29,038 | INFO | Frame captured: 6
+2026-03-06 01:06:29,072 | INFO | Frame captured: 7
+2026-03-06 01:06:34,767 | INFO | Frame captured: 8
+2026-03-06 01:06:34,801 | INFO | Frame captured: 9
+2026-03-06 01:06:34,835 | INFO | Frame captured: 10
+2026-03-06 01:06:34,869 | INFO | Frame captured: 11
+2026-03-06 01:06:34,919 | INFO | Frame captured: 12
+2026-03-06 01:06:34,969 | INFO | Frame captured: 13
+2026-03-06 01:06:35,097 | INFO | Frame captured: 14
+2026-03-06 01:06:35,144 | INFO | Frame captured: 15
+2026-03-06 01:06:35,190 | INFO | Frame captured: 16
+2026-03-06 01:06:35,227 | INFO | Frame captured: 17
+2026-03-06 01:06:35,271 | INFO | Frame captured: 18
+2026-03-06 01:06:35,353 | INFO | Frame captured: 19
+2026-03-06 01:06:35,514 | INFO | Frame captured: 20
+2026-03-06 01:06:35,551 | INFO | Frame captured: 21
+2026-03-06 01:06:35,588 | INFO | Frame captured: 22
+2026-03-06 01:06:35,862 | INFO | Frame captured: 23
+2026-03-06 01:06:35,935 | INFO | Frame captured: 24
+2026-03-06 01:06:35,977 | INFO | Frame captured: 25
+2026-03-06 01:06:36,157 | INFO | Frame captured: 26
+2026-03-06 01:06:36,209 | INFO | Frame captured: 27
+2026-03-06 01:06:36,251 | INFO | Frame captured: 28
+2026-03-06 01:06:36,307 | INFO | Frame captured: 29
+2026-03-06 01:06:36,354 | INFO | Frame captured: 30
+2026-03-06 01:06:36,415 | INFO | Frame captured: 31
+2026-03-06 01:06:39,771 | INFO | Frame captured: 32
+2026-03-06 01:06:39,827 | INFO | Frame captured: 33
+2026-03-06 01:06:40,490 | INFO | Frame captured: 34
+2026-03-06 01:06:41,847 | INFO | Frame captured: 35
+2026-03-06 01:06:41,930 | INFO | Frame captured: 36
+2026-03-06 01:06:42,040 | INFO | Frame captured: 37
+2026-03-06 01:06:42,112 | INFO | Frame captured: 38
+2026-03-06 01:06:42,195 | INFO | Frame captured: 39
+2026-03-06 01:06:42,272 | INFO | Frame captured: 40
+2026-03-06 01:06:42,355 | INFO | Frame captured: 41
+2026-03-06 01:06:42,445 | INFO | Frame captured: 42
+2026-03-06 01:06:42,540 | INFO | Frame captured: 43
+2026-03-06 01:06:42,653 | INFO | Frame captured: 44
+2026-03-06 01:06:42,779 | INFO | Frame captured: 45
+2026-03-06 01:06:44,827 | INFO | Frame captured: 46
+2026-03-06 01:06:44,974 | INFO | Frame captured: 47
+2026-03-06 01:07:03,013 | INFO | Frame captured: 48
+2026-03-06 01:07:03,104 | INFO | Frame captured: 49
+2026-03-06 01:07:03,193 | INFO | Frame captured: 50
+2026-03-06 01:07:03,272 | INFO | Frame captured: 51
+2026-03-06 01:07:05,228 | INFO | Frame captured: 52
+2026-03-06 01:07:09,025 | INFO | Frame captured: 53
+2026-03-06 01:07:09,810 | INFO | Frame captured: 54
+2026-03-06 01:07:09,931 | INFO | Frame captured: 55
+2026-03-06 01:07:11,155 | INFO | Frame captured: 56
+2026-03-06 01:10:43,599 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-03-06 01:10:45,358 | INFO | Frame captured: 0
+2026-03-06 01:10:45,398 | INFO | Frame captured: 1
+2026-03-06 01:10:45,473 | INFO | Frame captured: 2
+2026-03-06 01:10:45,510 | INFO | Frame captured: 3
+2026-03-06 01:10:48,500 | INFO | Frame captured: 4
+2026-03-06 01:10:53,964 | INFO | Frame captured: 5
+2026-03-06 01:10:54,066 | INFO | Frame captured: 6
+2026-03-06 01:10:54,098 | INFO | Frame captured: 7
+2026-03-06 01:10:54,170 | INFO | Frame captured: 8
+2026-03-06 01:10:54,213 | INFO | Frame captured: 9
+2026-03-06 01:10:54,254 | INFO | Frame captured: 10
+2026-03-06 01:10:54,285 | INFO | Frame captured: 11
+2026-03-06 01:10:54,350 | INFO | Frame captured: 12
+2026-03-06 01:10:54,390 | INFO | Frame captured: 13
+2026-03-06 01:10:54,424 | INFO | Frame captured: 14
+2026-03-06 01:10:55,230 | INFO | Frame captured: 15
+2026-03-06 01:10:55,272 | INFO | Frame captured: 16
+2026-03-06 01:11:01,524 | INFO | Frame captured: 17
+2026-03-06 01:11:01,890 | INFO | Frame captured: 18
+2026-03-06 01:11:01,927 | INFO | Frame captured: 19
+2026-03-06 01:11:07,037 | INFO | Frame captured: 20
+2026-03-06 01:11:07,244 | INFO | Frame captured: 21
+2026-03-06 01:11:07,391 | WARNING | Frame dropped
+2026-03-06 01:11:07,532 | WARNING | Frame dropped
+2026-03-06 01:11:09,337 | INFO | Frame captured: 22
+2026-03-06 01:11:11,910 | INFO | Frame captured: 23
+2026-03-06 01:11:12,053 | INFO | Frame captured: 24
+2026-03-06 01:11:12,191 | INFO | Frame captured: 25
+2026-03-06 01:11:12,367 | WARNING | Frame dropped
+2026-03-06 01:11:15,559 | INFO | Frame captured: 26
+2026-03-06 01:11:21,581 | INFO | Frame captured: 27
+2026-03-06 01:11:21,942 | INFO | Frame captured: 28
+2026-03-06 01:11:23,041 | INFO | Frame captured: 29
+2026-03-06 01:11:23,102 | INFO | Frame captured: 30
+2026-03-06 01:11:23,172 | INFO | Frame captured: 31
+2026-03-06 01:11:23,224 | INFO | Frame captured: 32
+2026-03-06 01:11:23,476 | INFO | Frame captured: 33
+2026-03-06 01:11:23,543 | INFO | Frame captured: 34
+2026-03-06 01:11:23,627 | INFO | Frame captured: 35
+2026-03-06 01:11:23,702 | INFO | Frame captured: 36
+2026-03-06 01:11:24,305 | INFO | Frame captured: 37
+2026-03-06 01:11:24,485 | WARNING | Frame dropped
+2026-03-06 01:11:24,644 | WARNING | Frame dropped
+2026-03-06 01:11:24,683 | INFO | Frame captured: 38
+2026-03-06 01:11:24,794 | INFO | Frame captured: 39
+2026-03-06 01:11:24,922 | INFO | Frame captured: 40
+2026-03-06 01:11:25,047 | INFO | Frame captured: 41
+2026-03-06 01:11:25,307 | WARNING | Frame dropped
+2026-03-06 01:11:25,481 | WARNING | Frame dropped
+2026-03-06 01:11:25,686 | WARNING | Frame dropped
+2026-03-06 01:11:25,971 | WARNING | Frame dropped
+2026-03-06 01:11:26,307 | WARNING | Frame dropped
+2026-03-06 01:11:26,814 | WARNING | Frame dropped
+2026-03-06 01:11:28,205 | INFO | Frame captured: 42
+2026-03-06 01:12:42,951 | INFO | Frame captured: 0
+2026-03-06 01:12:42,996 | INFO | Frame captured: 1
+2026-03-06 01:12:43,040 | INFO | Frame captured: 2
+2026-03-06 01:12:43,079 | INFO | Frame captured: 3
+2026-03-06 01:12:43,131 | INFO | Frame captured: 4
+2026-03-06 01:12:44,163 | INFO | Frame captured: 5
+2026-03-06 01:12:53,340 | INFO | Frame captured: 6
+2026-03-06 01:12:53,420 | INFO | Frame captured: 7
+2026-03-06 01:12:55,130 | INFO | Frame captured: 8
+2026-03-06 01:12:55,168 | INFO | Frame captured: 9
+2026-03-06 01:12:55,217 | INFO | Frame captured: 10
+2026-03-06 01:12:55,265 | INFO | Frame captured: 11
+2026-03-06 01:12:55,309 | INFO | Frame captured: 12
+2026-03-06 01:12:55,355 | INFO | Frame captured: 13
+2026-03-06 01:12:55,680 | INFO | Frame captured: 14
+2026-03-06 01:12:55,737 | INFO | Frame captured: 15
+2026-03-06 01:12:55,800 | INFO | Frame captured: 16
+2026-03-06 01:12:55,863 | INFO | Frame captured: 17
+2026-03-06 01:12:55,923 | INFO | Frame captured: 18
+2026-03-06 01:12:56,172 | INFO | Frame captured: 19
+2026-03-06 01:12:56,251 | INFO | Frame captured: 20
+2026-03-06 01:12:56,331 | INFO | Frame captured: 21
+2026-03-06 01:12:56,409 | INFO | Frame captured: 22
+2026-03-06 01:12:56,557 | INFO | Frame captured: 23
+2026-03-06 01:12:56,645 | INFO | Frame captured: 24
+2026-03-06 01:12:56,747 | INFO | Frame captured: 25
+2026-03-06 01:12:56,857 | INFO | Frame captured: 26
+2026-03-06 01:12:56,990 | INFO | Frame captured: 27
+2026-03-06 01:12:57,120 | INFO | Frame captured: 28
+2026-03-06 01:12:57,387 | WARNING | Frame dropped
+2026-03-06 01:13:00,258 | INFO | Frame captured: 29
+2026-03-06 01:13:03,980 | INFO | Frame captured: 30
+2026-03-06 01:13:07,640 | INFO | Frame captured: 31
+2026-03-06 01:13:54,426 | INFO | Frame captured: 0
+2026-03-06 01:13:54,473 | INFO | Frame captured: 1
+2026-03-06 01:13:54,518 | INFO | Frame captured: 2
+2026-03-06 01:13:54,556 | INFO | Frame captured: 3
+2026-03-06 01:13:54,608 | INFO | Frame captured: 4
+2026-03-06 01:13:55,678 | INFO | Frame captured: 5
+2026-03-06 01:13:57,372 | INFO | Frame captured: 6
+2026-03-06 01:13:57,531 | INFO | Frame captured: 7
+2026-03-06 01:13:57,586 | INFO | Frame captured: 8
+2026-03-06 01:13:57,649 | INFO | Frame captured: 9
+2026-03-06 01:13:57,705 | INFO | Frame captured: 10
+2026-03-06 01:13:57,755 | INFO | Frame captured: 11
+2026-03-06 01:13:58,866 | INFO | Frame captured: 12
+2026-03-06 01:13:58,905 | INFO | Frame captured: 13
+2026-03-06 01:13:58,947 | INFO | Frame captured: 14
+2026-03-06 01:13:59,004 | INFO | Frame captured: 15
+2026-03-06 01:13:59,057 | INFO | Frame captured: 16
+2026-03-06 01:13:59,313 | INFO | Frame captured: 17
+2026-03-06 01:13:59,364 | INFO | Frame captured: 18
+2026-03-06 01:13:59,404 | INFO | Frame captured: 19
+2026-03-06 01:13:59,454 | INFO | Frame captured: 20
+2026-03-06 01:13:59,509 | INFO | Frame captured: 21
+2026-03-06 01:13:59,857 | WARNING | Frame dropped
+2026-03-06 01:14:00,015 | WARNING | Frame dropped
+2026-03-06 01:14:00,617 | INFO | Frame captured: 22
+2026-03-06 01:14:01,188 | INFO | Frame captured: 23
+2026-03-06 01:14:01,255 | INFO | Frame captured: 24
+2026-03-06 01:14:01,319 | INFO | Frame captured: 25
+2026-03-06 01:14:02,603 | INFO | Frame captured: 26
+2026-03-06 01:14:02,692 | INFO | Frame captured: 27
+2026-03-06 01:14:02,856 | WARNING | Frame dropped
+2026-03-06 01:14:02,998 | WARNING | Frame dropped
+2026-03-06 01:14:03,139 | WARNING | Frame dropped
+2026-03-06 01:14:03,988 | INFO | Frame captured: 28
+2026-03-06 01:14:04,059 | INFO | Frame captured: 29
+2026-03-06 01:14:07,338 | INFO | Frame captured: 30
+2026-03-06 01:14:09,902 | INFO | Frame captured: 31
+2026-03-06 01:14:12,558 | INFO | Frame captured: 32
+2026-03-06 01:14:16,078 | INFO | Frame captured: 33
+2026-03-06 01:18:08,596 | INFO | Frame captured: 0
+2026-03-06 01:18:08,646 | INFO | Frame captured: 1
+2026-03-06 01:18:08,742 | INFO | Frame captured: 2
+2026-03-06 01:18:08,798 | INFO | Frame captured: 3
+2026-03-06 01:18:08,844 | INFO | Frame captured: 4
+2026-03-06 01:18:08,892 | INFO | Frame captured: 5
+2026-03-06 01:18:08,938 | INFO | Frame captured: 6
+2026-03-06 01:18:09,714 | INFO | Frame captured: 7
+2026-03-06 01:18:10,310 | INFO | Frame captured: 8
+2026-03-06 01:18:10,451 | INFO | Frame captured: 9
+2026-03-06 01:18:10,509 | INFO | Frame captured: 10
+2026-03-06 01:18:10,691 | WARNING | Frame dropped
+2026-03-06 01:18:10,847 | WARNING | Frame dropped
+2026-03-06 01:18:10,988 | WARNING | Frame dropped
+2026-03-06 01:18:11,144 | WARNING | Frame dropped
+2026-03-06 01:18:11,302 | WARNING | Frame dropped
+2026-03-06 01:18:11,569 | WARNING | Frame dropped
+2026-03-06 01:18:12,150 | INFO | Frame captured: 11
+2026-03-06 01:18:12,190 | INFO | Frame captured: 12
+2026-03-06 01:18:12,276 | INFO | Frame captured: 13
+2026-03-06 01:18:19,748 | INFO | Frame captured: 14
+2026-03-06 01:18:20,907 | INFO | Frame captured: 15
+2026-03-06 01:18:21,010 | INFO | Frame captured: 16
+2026-03-06 01:18:21,238 | WARNING | Frame dropped
+2026-03-06 01:18:21,379 | WARNING | Frame dropped
+2026-03-06 01:18:21,879 | WARNING | Frame dropped
+2026-03-06 01:18:22,052 | WARNING | Frame dropped
+2026-03-06 01:18:22,413 | WARNING | Frame dropped
+2026-03-06 01:18:22,599 | INFO | Frame captured: 17
+2026-03-06 01:18:23,009 | WARNING | Frame dropped
+2026-03-06 01:18:23,496 | WARNING | Frame dropped
+2026-03-06 01:18:24,499 | WARNING | Frame dropped
+2026-03-06 01:18:25,851 | WARNING | Frame dropped
+2026-03-06 01:18:26,740 | INFO | Frame captured: 18
+2026-03-06 01:18:27,997 | WARNING | Frame dropped
+2026-03-06 01:18:28,994 | WARNING | Frame dropped
+2026-03-06 01:18:33,048 | INFO | Frame captured: 19
